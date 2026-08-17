@@ -1,0 +1,11 @@
+# Secrets and private keys
+keys/
+*.pem
+*.key
+
+# Source DSL files (only publish encrypted binary .pkg)
+*.dsl
+
+# Python caches
+__pycache__/
+*.pyc

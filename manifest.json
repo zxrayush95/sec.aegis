@@ -1,0 +1,10 @@
+{
+  "minSdkVersion": 24,
+  "signature": "MEYCIQDK1vqiY7j2p8/LbCigqPrhRzqVAgCgmK77Up34h1M47QIhAPm0Oeun+dgc90CaxMBBmrk69cDQqEY2tzWAtuoJl/VE",
+  "packageUrl": "https://raw.githubusercontent.com/zxrayush95/sec.aegis/main/rules/rules-v2.pkg",
+  "packageSha256": "48ab18bd9117852351db362bad04dcaab4fb529d76d7bcb30a566f5c947974e2",
+  "rulesCount": 1,
+  "applicationId": "com.aegis.sample",
+  "version": 2,
+  "timestamp": 1786934540666
+}
