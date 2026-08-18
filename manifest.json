@@ -1,10 +1,10 @@
 {
-  "minSdkVersion": 24,
-  "signature": "MEYCIQD+SvzZOP2XpthVubASbrnI0uVDZ/sroFxfVIg1SlmIsgIhAL6ss2JROHJ/tNMS45Q8x2lESloMCnPNBlRQ5eVApZ2W",
-  "packageUrl": "https://raw.githubusercontent.com/zxrayush95/sec.aegis/main/rules/rules-v2.pkg",
-  "packageSha256": "fbb36d898ce684f74d74e1feb7aae0aace0c725b0d9d89701c141e602b63a179",
-  "rulesCount": 1,
-  "applicationId": "com.aegis.sample",
   "version": 2,
-  "timestamp": 1786936646885
+  "minSdkVersion": 24,
+  "applicationId": "com.mobile.legends",
+  "packageUrl": "https://raw.githubusercontent.com/zxrayush95/sec.aegis/main/rules/rules-v2.pkg",
+  "packageSha256": "805dd2efb6bcc25ef4c5ebe6f7ca5d45c2046b325ceea6856f96b88f7bf34ffe",
+  "rulesCount": 1,
+  "timestamp": 1787072075404,
+  "signature": "MEUCIQCJt9baga+VSqj4LjjmdCrZTH4dha7WMKgFCNpEBO5xJgIgeK24j/LpskwbnPLTl+/Hb92AY94gmmc2rcaUak0bNlI="
 }
