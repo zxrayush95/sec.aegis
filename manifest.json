@@ -1,10 +1,10 @@
 {
   "minSdkVersion": 24,
-  "signature": "MEQCIAnqZSCKzDNpwc4Pi8wtBSbsl+veko9M/w8w0mz0NnOWAiAVY3bm5ZJk/p3GolqhFkOHlVzLx7dM3SqluKF/5LKLMg==",
-  "packageUrl": "https://raw.githubusercontent.com/zxrayush95/sec.aegis/main/rules-v6.pkg",
-  "packageSha256": "41c1b3b53747dba7720328d8b69001af8fbf473a76caf5778a620b5bcab1a388",
-  "rulesCount": 2,
+  "signature": "MEUCIQDOpnTDYphMCrVdYUIQ79u7ai6nPZDHp9MJzrt1FQhZDAIgTGf1eilSMGvhRKNoR17asEraH8h9tUqFexD9IQifFaU=",
+  "packageUrl": "https://raw.githubusercontent.com/zxrayush95/sec.aegis/main/rules-v7.pkg",
+  "packageSha256": "fb8b8802b7571f170352dea075d08813d5130c79aef0de4fdcf6ceb0f1afeebf",
+  "rulesCount": 3,
   "applicationId": "com.mobile.legends",
-  "version": 6,
-  "timestamp": 1787080968139
+  "version": 7,
+  "timestamp": 1787082333835
 }
